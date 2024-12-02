@@ -14,7 +14,7 @@ def main():
         print("2. View Contacts")
         print("3. Remove Contact")
         print("4. Search Contacts")
-        print("5. Exit")
+        print("5. Exit (Save)")
 
         choice = input("Enter your choice: ").strip()
 
