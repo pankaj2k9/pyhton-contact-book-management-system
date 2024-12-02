@@ -28,5 +28,5 @@ A simple **Command Line Interface (CLI)** application to manage contacts, built 
 
 1. Clone the repository or download the source code:
    ```bash
-   git clone https://github.com/your-username/contact-book.git
-   cd contact-book
+   git clone https://github.com/pankaj2k9/python-contact-book-management-system.git
+   cd python-contact-book-management-system
